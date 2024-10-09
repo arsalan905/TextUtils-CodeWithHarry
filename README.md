@@ -1,1 +1,1 @@
-This is a YouTube project developed to enhance my skills.
+This YouTube project is designed to help me enhance my skills. It serves as a tool for personal growth and improvement.
