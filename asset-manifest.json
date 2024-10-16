@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-CodeWithHarry/static/css/main.dc4d6ff2.css",
+    "main.js": "/TextUtils-CodeWithHarry/static/js/main.23c07d06.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TextUtils-CodeWithHarry/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/TextUtils-CodeWithHarry/index.html",
+    "main.dc4d6ff2.css.map": "/TextUtils-CodeWithHarry/static/css/main.dc4d6ff2.css.map",
+    "main.23c07d06.js.map": "/TextUtils-CodeWithHarry/static/js/main.23c07d06.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TextUtils-CodeWithHarry/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.23c07d06.js"
+  ]
+}
